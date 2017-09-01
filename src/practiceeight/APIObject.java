@@ -18,6 +18,12 @@ import br.eti.kinoshita.testlinkjavaapi.model.TestCase;
 import br.eti.kinoshita.testlinkjavaapi.model.TestPlan;
 import br.eti.kinoshita.testlinkjavaapi.util.TestLinkAPIException;
 
+/**
+ * Ð¡Âí×¢ÊÍ
+ * @author Administrator
+ *
+ */
+
 public class APIObject {
 	private static Logger logger = Logger.getLogger(APIObject.class);
     private static TestLinkAPI api = null;
