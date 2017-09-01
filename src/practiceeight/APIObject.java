@@ -33,7 +33,7 @@ public class APIObject {
     private Integer tcID = 0;
     private Integer planID = 0 ;
     private TestCase tcase;
-    
+     
     
    public  APIObject(String url,String devKey,String projectName,String planName,String buildName,String platformName){
 	   this.url = url;
