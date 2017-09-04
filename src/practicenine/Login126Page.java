@@ -10,7 +10,7 @@ public class Login126Page {
 	
 	public Login126Page(WebDriver driver){
 	    this.driver = driver;	
-	    dbsession.conn();
+	    dbsession.conn(null);
 	}
 	
 	
